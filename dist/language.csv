@@ -5941,3 +5941,4 @@ findit.info.login.error.idportenSuccessUnknownCustomer",Missing user for this ID
 ,,findit.account.sms_provider.null,Default,,,,,,Standard,,,,,,,,,,,,,,,,
 ,,findit.account.sms_provider.TWILIO,Twilio,,,,,,Twilio,,,,,,,,,,,,,,,,
 ,,findit.account.sms_provider.LINKMOBILITY,Link Mobility,,,,,,Link Mobility,,,,,,,,,,,,,,,,
+,,findit.button.account.edit_sms_provider,Save Changes,,,,,,Lagre Endringer,,,,,,,,,,,,,,,,
