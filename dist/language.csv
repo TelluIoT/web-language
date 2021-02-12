@@ -5953,4 +5953,4 @@ findit.info.login.error.idportenSuccessUnknownCustomer",Missing user for this ID
 ,,findit.device.evondos_300.setup,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.rule.title.send_display_command_emg_ass,Assistant button colleague alert,,,,,,Assistanseknapp-kollegavarsel,,,,,,,,,,,,,,,,
-,,findit.rule.description.send_display_command_emg_ass  ,Alerts colleagues in a group at the push of a button from the Twig units. Assist button for green button. Emergency on Alarm button.,,,,,,Varsler kolegaer I en gruppe ved knappetrykk fra Twig enhetene. Assistansealarm for grønn knapp. Nødsituasjon på Alarm knapp.,,,,,,,,,,,,,,,,
+,,findit.rule.description.send_display_command_emg_ass  ,Alerts colleagues in a group at the push of a button from the Twig units. Assist button for green button. Emergency on Alarm button.,,,,,,Varsler personer I en gruppe ved knappetrykk fra Twig enhetene. Assistansealarm for grønn knapp. Nødsituasjon på Alarm knapp.,,,,,,,,,,,,,,,,
