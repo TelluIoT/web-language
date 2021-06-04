@@ -688,6 +688,13 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.rule.title.group_personnel_alarm,Personnel Emerging Group Alerting ,,,,,,Gruppevarsling av panikkalarmer for personell,,,,,,,,,,,,,,,,
 ,,findit.rule.description.group_personnel_alarm,The personnel that belongs to same group as the personell that raised an alarm receiv a message on the their device. The device can be both X-Guard Alarm App and Twig device.,,,,,,"Personell som tilhører samme gruppe som den som utløser en alarm, vil få en varsling på den enheten de bruker. Dette virker både for Twig og X-Guard Alarm App.",,,,,,,,,,,,,,,,
+,,findit.rule.title.group_personnel_alarm_lock,Personnel Emerging Group Alerting With Timeout,,,,,,Gruppevarsling av panikkalarmer for personell med timeout,,,,,,,,,,,,,,,,
+,,findit.rule.description.group_personnel_alarm_lock,"Group alarm rule. It sends a device command to all active devices that belongs to the same group as the asset that raised the alarm. If there is assets of type ´ Responder´ it will be send a sms to them as well.
+
+The Timeout variable is provided in Seconds. When the rule triggers, it will wait the timeout amount of settings before being able to trigger again",,,,,,"Gruppealarmregel. Den sender en enhetskommando til alle aktive enheter som tilhører samme gruppe som aktiva som vekket alarmen.
+
+Timeout-variabelen er gitt i sekunder. Når regelen utløser, vil den vente tidsavbruddsmengden av innstillinger før den kan utløses igjen",,,,,,,,,,,,,,,,
+,,findit.label.rules.activate.key.timeout,Timeout (in Seconds),,,,,,Timeout (I sekunder),,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.device.twig_stanley.name,Twig - Stanley,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.device.twig_stanley.description,Twig is professional device for personnel safety ,,,,,,,,,,,,,,,,,,,,,,
