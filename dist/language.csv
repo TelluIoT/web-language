@@ -701,7 +701,7 @@ Timeout-variabelen er gitt i sekunder. Når regelen utløser, vil den vente tids
 ,,findit.label.rules.activate.key.create_alarm,Raise Alarm,,,,,,Lag alarm,,,,,,,,,,,,,,,,
 ,,findit.label.rules.activate.key.create_alarm.yes,Yes,,,,,,Ja,,,,,,,,,,,,,,,,
 ,,findit.label.rules.activate.key.create_alarm.no,No,,,,,,Nei,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+,,findit.rule.title.group_personnel_fall_alarm,Group Alart Fall Alarm,,,,,,Gruppevarsling fall alarm,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.label.rules.activate.key.timeout,Timeout (in Seconds),,,,,,Timeout (I sekunder),,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
