@@ -694,6 +694,15 @@
 The Timeout variable is provided in Seconds. When the rule triggers, it will wait the timeout amount of settings before being able to trigger again",,,,,,"Gruppealarmregel. Den sender en enhetskommando til alle aktive enheter som tilhører samme gruppe som aktiva som vekket alarmen.
 
 Timeout-variabelen er gitt i sekunder. Når regelen utløser, vil den vente tidsavbruddsmengden av innstillinger før den kan utløses igjen",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,findit.rule.title.group_personnel_fall_alarm,Group alert Fall alarm,,,,,,Gruppevarsling av Fall Alarm,,,,,,,,,,,,,,,,
+,,findit.rule.description.group_personnel_fall_alarm,Notifies responders when a fall event is triggered. ,,,,,,"Varsler Respondere ved trigget fall alarm, med mulighet for å trigge en alarm. ",,,,,,,,,,,,,,,,
+,,findit.rule.activation.group_personnel_fall_alarm,Timeout in minutes is how long a device can have been ambient before being excluded in receivers. 0 will report to all devices. ,,,,,,"Timeout I minutter, hvor lenge en enhet kan ha latt være å rapportere før den blir eksludert fra mottak. Ved 0 vil alle enheter få varsling. ",,,,,,,,,,,,,,,,
+,,findit.label.rules.activate.key.create_alarm,Raise Alarm,,,,,,Lag alarm,,,,,,,,,,,,,,,,
+,,findit.label.rules.activate.key.create_alarm.yes,Yes,,,,,,Ja,,,,,,,,,,,,,,,,
+,,findit.label.rules.activate.key.create_alarm.no,No,,,,,,Nei,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.label.rules.activate.key.timeout,Timeout (in Seconds),,,,,,Timeout (I sekunder),,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,findit.device.twig_stanley.name,Twig - Stanley,,,,,,,,,,,,,,,,,,,,,,
